@@ -1,2 +1,2 @@
 # ICE1
-HADOOP 
+HADOOP basic commands 
